@@ -1,0 +1,53 @@
+﻿
+@* llamamos a la clase UserTableViewModel
+    que contiene el contexto del objeto
+*@
+@model List<cursomvc.Models.TableViewModels.UserTableViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <input type="button" class="btn btn-primary" onclick="document.location.href='@Url.Content("~/User/Add")'" value="Nuevo"/>
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-lg-12">
+        <table class="table table-bordered">
+            <tr>
+                <th>#</th>
+                <th>Email</th>
+                <th>Edad</th>
+            </tr>
+            @foreach (var oElemento in Model)
+            {
+                <tr>
+                    <td>@oElemento.Id</td>
+                    <td>@oElemento.Email</td>
+                    <td>@oElemento.Edad</td>
+                    <td>
+                        <input onclick="jsDelete(@oElemento.Id);" type="button" value="eliminar" class="btn btn-danger"/>
+                    </td>
+                    <td>
+                        <input onclick="document.location.href='@Url.Content("~/User/Edit"+(@oElemento.Id))'" type="button" value="Editar" class="btn btn-dark"/>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+
+</div>
+
+
+<script>
+    function jsDelete(id) {
+
+    }
+</script>

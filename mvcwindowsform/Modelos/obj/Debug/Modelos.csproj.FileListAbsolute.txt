@@ -1,0 +1,12 @@
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\Modelos.dll.config
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\Modelos.dll
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\Modelos.pdb
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\EntityFramework.dll
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\EntityFramework.xml
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\obj\Debug\Modelos.dll
+C:\Users\56935\source\repos\mvcwindowsform\Modelos\obj\Debug\Modelos.pdb

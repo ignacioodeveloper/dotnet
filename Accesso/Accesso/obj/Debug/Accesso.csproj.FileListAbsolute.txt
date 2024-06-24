@@ -1,0 +1,16 @@
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\Accesso.exe.config
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\Accesso.exe
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\Accesso.pdb
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.csproj.AssemblyReference.cache
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.Form1.resources
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.Properties.Resources.resources
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.csproj.GenerateResource.cache
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.csproj.CoreCompileInputs.cache
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.exe
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.pdb
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\EntityFramework.dll
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\EntityFramework.xml
+C:\Users\56935\source\repos\Accesso\Accesso\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.csproj.Up2Date
+C:\Users\56935\source\repos\Accesso\Accesso\obj\Debug\Accesso.FrmMain.resources

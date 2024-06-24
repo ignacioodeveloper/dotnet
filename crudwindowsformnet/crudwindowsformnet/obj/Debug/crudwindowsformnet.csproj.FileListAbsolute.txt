@@ -1,0 +1,11 @@
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\bin\Debug\crudwindowsformnet.exe.config
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\bin\Debug\crudwindowsformnet.exe
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\bin\Debug\crudwindowsformnet.pdb
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.csproj.AssemblyReference.cache
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.Form1.resources
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.Properties.Resources.resources
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.csproj.GenerateResource.cache
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.csproj.CoreCompileInputs.cache
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.exe
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.pdb
+C:\Users\56935\source\repos\crudwindowsformnet\crudwindowsformnet\obj\Debug\crudwindowsformnet.FrmNuevo.resources

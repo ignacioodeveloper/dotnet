@@ -1,0 +1,15 @@
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\obj\Debug\Controladores.csproj.AssemblyReference.cache
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\obj\Debug\Controladores.csproj.CoreCompileInputs.cache
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\Controladores.dll.config
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\Controladores.dll
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\Controladores.pdb
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\EntityFramework.dll
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\Modelos.dll
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\Modelos.pdb
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\Modelos.dll.config
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\EntityFramework.xml
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\obj\Debug\Controla.588FD378.Up2Date
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\obj\Debug\Controladores.dll
+C:\Users\56935\source\repos\mvcwindowsform\Controladores\obj\Debug\Controladores.pdb
