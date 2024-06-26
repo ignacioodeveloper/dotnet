@@ -28,4 +28,24 @@ namespace cursomvc.Models.ViewModels
         [Required]
         public int Edad {  get; set; }
     }
+
+
+    public class UserEditViewModel
+    {
+
+
+        // clases para validar
+
+        [Required]
+        [EmailAddress]
+        [StringLength(100, ErrorMessage = "El {0} debe tener al menos {1} caracteres", MinimumLength = 1)]
+        [Display(Name = "Correo Electronico")]
+        public string Email { get; set; }
+
+       
+
+        [Required]
+        public int Edad { get; set; }
+    }
+
 }

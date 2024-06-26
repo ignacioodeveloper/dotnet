@@ -60,6 +60,14 @@ namespace cursomvc.Controllers
 
 
         // Editar
-        public ActionResult
+        public ActionResult Edit(int Id)
+        {
+            UserEditViewModel model = new UserEditViewModel();
+            using (var db= new cursomvcEntities())
+            {
+
+            }
+            return View();
+        }
     }
 }

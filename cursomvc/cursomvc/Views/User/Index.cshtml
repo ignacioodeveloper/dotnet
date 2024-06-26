@@ -1,5 +1,4 @@
-﻿
-@* llamamos a la clase UserTableViewModel
+﻿@* llamamos a la clase UserTableViewModel
     que contiene el contexto del objeto
 *@
 @model List<cursomvc.Models.TableViewModels.UserTableViewModel>
@@ -11,9 +10,10 @@
 
 <div class="row">
     <div class="col-md-12">
-        <input type="button" class="btn btn-primary" onclick="document.location.href='@Url.Content("~/User/Add")'" value="Nuevo"/>
+        <input type="button" class="btn btn-primary" onclick="document.location.href='@Url.Content("~/User/Add")'" value="Nuevo" />
     </div>
 </div>
+
 
 <hr />
 
@@ -32,10 +32,10 @@
                     <td>@oElemento.Email</td>
                     <td>@oElemento.Edad</td>
                     <td>
-                        <input onclick="jsDelete(@oElemento.Id);" type="button" value="eliminar" class="btn btn-danger"/>
+                        <input onclick="jsDelete(@oElemento.Id);" type="button" value="eliminar" class="btn btn-danger" />
                     </td>
                     <td>
-                        <input onclick="document.location.href='@Url.Content("~/User/Edit"+(@oElemento.Id))'" type="button" value="Editar" class="btn btn-dark"/>
+                        <input onclick="document.location.href='@Url.Content("~/User/Edit/"+(@oElemento.Id))'" type="button" value="Editar" class="btn btn-dark" />
                     </td>
                 </tr>
             }

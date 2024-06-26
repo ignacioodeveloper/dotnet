@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\56935\\source\\repos\\datatable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|c:\\users\\56935\\source\\repos\\datatable\\datatable\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|solutionrelative:datatable\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|c:\\users\\56935\\source\\repos\\datatable\\datatable\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|solutionrelative:datatable\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|C:\\Users\\56935\\source\\repos\\datatable\\datatable\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|solutionrelative:datatable\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|c:\\users\\56935\\source\\repos\\datatable\\datatable\\models\\db.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5329A094-F7AA-4547-90ED-F6BBEE2470D9}|datatable\\datatable.csproj|solutionrelative:datatable\\models\\db.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "datatable\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "datatable\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:39:47.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DB.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Models\\DB.edmx",
+              "RelativeDocumentMoniker": "datatable\\Models\\DB.edmx",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Models\\DB.edmx [Diagram1]",
+              "RelativeToolTip": "datatable\\Models\\DB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-26T02:13:46.512Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "datatable\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "datatable\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:01:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "datatable\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\datatable\\datatable\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "datatable\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:59:40.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

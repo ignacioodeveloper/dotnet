@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\56935\\source\\repos\\cursomvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|c:\\users\\56935\\source\\repos\\cursomvc\\cursomvc\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|solutionrelative:cursomvc\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|c:\\users\\56935\\source\\repos\\cursomvc\\cursomvc\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|solutionrelative:cursomvc\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|c:\\users\\56935\\source\\repos\\cursomvc\\cursomvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|solutionrelative:cursomvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|c:\\users\\56935\\source\\repos\\cursomvc\\cursomvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B87DF388-C5DD-40ED-B214-C7F97E4E546C}|cursomvc\\cursomvc.csproj|solutionrelative:cursomvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "cursomvc\\Views\\User\\Add.cshtml",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "cursomvc\\Views\\User\\Add.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T03:14:32.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "cursomvc\\Models\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "cursomvc\\Models\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:45:19.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "cursomvc\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "cursomvc\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T02:44:48.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "cursomvc\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\56935\\source\\repos\\cursomvc\\cursomvc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "cursomvc\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:39:56.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
